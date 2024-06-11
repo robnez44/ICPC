@@ -38,7 +38,7 @@ int main()
         reverse(subW2.begin(), subW2.end());
     }
     
-    //merging
+    //merging 
     if (!v2.empty())
     {
         superW = firstLWord1 + subW1 + v2 + subW2 + lastLWord2;
