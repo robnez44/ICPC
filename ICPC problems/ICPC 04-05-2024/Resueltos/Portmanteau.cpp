@@ -51,13 +51,7 @@ int main()
     {
         superW = firstLWord1 + subW1 + "o" + subW2 + lastLWord2;
         cout << superW << "\n";
-    }
-    
-    
-    
-
-    
-    
+    }   
 
     return 0;
 }
