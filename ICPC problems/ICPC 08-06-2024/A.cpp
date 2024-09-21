@@ -8,7 +8,7 @@ int main()
     int n, sum = 0, in;
     vector<int> nums;
     int total_sum;
-
+    
     cin >> n;
 
     for (int i = 0; i < n; i++)
